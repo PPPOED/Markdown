@@ -43,7 +43,17 @@ int main()
 ---- | ---- | ----
 单元格内容 | 单元格内容 | 单元格内容
 单元格内容 | 单元格内容 | 单元格内容
-## 引用
-
-链接  
+## 五、链接引用
+前面加！会显示图片，不加不会显示
+* 图片  
+``` 
+[图片名称](https://www.baidu.com/img/bd_logo1.png)   
+```   
+  效果：  
+![图片名称](https://www.baidu.com/img/bd_logo1.png)   
+* 链接  
+``` 
+[链接名称](https://www.baidu.com/)   
+```  
+  效果：  
 [链接名称](https://www.baidu.com/)   
